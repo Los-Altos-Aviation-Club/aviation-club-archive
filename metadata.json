@@ -58,26 +58,7 @@
       "email": "jordan.s@lahs.edu"
     }
   ],
-  "events": [
-    {
-      "id": "1",
-      "title": "Guest Speaker: NASA Engineer",
-      "date": "2024-10-15",
-      "time": "15:30",
-      "location": "Room 702",
-      "description": "A talk about propulsion systems and internship opportunities.",
-      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop"
-    },
-    {
-      "id": "2",
-      "title": "Drone Racing Workshop",
-      "date": "2024-10-22",
-      "time": "16:00",
-      "location": "Football Field",
-      "description": "Hands-on practice with FPV drone piloting.",
-      "imageUrl": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?q=80&w=2070&auto=format&fit=crop"
-    }
-  ],
+  "events": [],
   "pillars": [
     {
       "id": "1",
