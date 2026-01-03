@@ -1,5 +1,133 @@
 {
-    "name": "LAHS Aviation Club",
-    "description": "Official website for the Los Altos High School Aviation Club, featuring a digital Project Archive, project blueprints, and flight schedules.",
-    "requestFramePermissions": []
+  "projects": [
+    {
+      "id": "1",
+      "title": "L1 Rocketry Certification",
+      "description": "Design and construction of a Level 1 certification rocket capable of meeting the basic requirements in order to earn L1 certification.",
+      "status": "In Progress",
+      "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop",
+      "specs": [
+        {
+          "label": "Apogee",
+          "value": "3,200 ft"
+        },
+        {
+          "label": "Motor",
+          "value": "H-Class"
+        },
+        {
+          "label": "Recovery",
+          "value": "Dual Deploy"
+        }
+      ],
+      "leadEngineer": "A. Yeager",
+      "completionDate": "Q4 2024"
+    },
+    {
+      "id": "1767399573603",
+      "title": "Maxtac Drone",
+      "description": "Project description goes here.",
+      "status": "In Progress",
+      "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop"
+    },
+    {
+      "id": "1767399579691",
+      "title": "American Rocketry Competition",
+      "description": "Project description goes here.",
+      "status": "In Progress",
+      "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop"
+    }
+  ],
+  "officers": [
+    {
+      "id": "1",
+      "name": "Alex Yeager",
+      "role": "President",
+      "email": "alex.y@lahs.edu"
+    },
+    {
+      "id": "2",
+      "name": "Sam Pilot",
+      "role": "VP of Engineering",
+      "email": "sam.p@lahs.edu"
+    },
+    {
+      "id": "3",
+      "name": "Jordan Sky",
+      "role": "Treasurer",
+      "email": "jordan.s@lahs.edu"
+    }
+  ],
+  "events": [
+    {
+      "id": "1",
+      "title": "Guest Speaker: NASA Engineer",
+      "date": "2024-10-15",
+      "time": "15:30",
+      "location": "Room 702",
+      "description": "A talk about propulsion systems and internship opportunities.",
+      "imageUrl": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?q=80&w=2072&auto=format&fit=crop"
+    },
+    {
+      "id": "2",
+      "title": "Drone Racing Workshop",
+      "date": "2024-10-22",
+      "time": "16:00",
+      "location": "Football Field",
+      "description": "Hands-on practice with FPV drone piloting.",
+      "imageUrl": "https://images.unsplash.com/photo-1473968512647-3e447244af8f?q=80&w=2070&auto=format&fit=crop"
+    }
+  ],
+  "pillars": [
+    {
+      "id": "1",
+      "imageUrl": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?q=80&w=2070&auto=format&fit=crop",
+      "title": "Avionics",
+      "description": "Development of custom flight computers, telemetry systems, and autonomous control logic for UAVs."
+    },
+    {
+      "id": "2",
+      "imageUrl": "https://images.unsplash.com/photo-1559067515-bf7d799b6d42?q=80&w=2070&auto=format&fit=crop",
+      "title": "Aerodynamics",
+      "description": "Utilizing CFD analysis and wind tunnel testing to optimize airframe efficiency and stability."
+    },
+    {
+      "id": "3",
+      "imageUrl": "https://images.unsplash.com/photo-1581092921461-eab62e97a782?q=80&w=2070&auto=format&fit=crop",
+      "title": "Crew Training",
+      "description": "Mentorship programs pairing senior engineers with new members to teach CAD, soldering, and piloting."
+    }
+  ],
+  "tickerItems": [
+    {
+      "id": "1",
+      "label": "Current Project",
+      "value": "L1 Rocketry",
+      "type": "wind"
+    },
+    {
+      "id": "2",
+      "label": "Next Launch",
+      "value": "OCT 25",
+      "type": "zap"
+    },
+    {
+      "id": "3",
+      "label": "Members",
+      "value": "45+ Active",
+      "type": "users"
+    }
+  ],
+  "siteContent": {
+    "homeHeroTitle": "We Build Things That Fly",
+    "homeHeroSubtitle": "Los Altos High School Aviation Club. Designing drones, rockets, and the next generation of aerospace engineers.",
+    "missionStatement": "Bridging the gap between theoretical physics and real-world aerospace engineering through hands-on fabrication and flight testing.",
+    "contactTitle": "Clear for Takeoff?",
+    "contactSubtitle": "We are looking for students passionate about engineering, design, and flight. No prior experience is required—just curiosity."
+  },
+  "googleCalendarUrl": "https://calendar.google.com",
+  "discordUrl": "https://discord.gg/example",
+  "name": "LAHS Aviation Club",
+  "description": "Official website for the Los Altos High School Aviation Club, featuring a digital Project Archive, project blueprints, and flight schedules.",
+  "requestFramePermissions": []
 }
