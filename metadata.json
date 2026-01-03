@@ -6,20 +6,7 @@
       "description": "Design and construction of a Level 1 certification rocket capable of meeting the basic requirements in order to earn L1 certification.",
       "status": "Concept",
       "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop",
-      "specs": [
-        {
-          "label": "Apogee",
-          "value": "3,200 ft"
-        },
-        {
-          "label": "Motor",
-          "value": "H-Class"
-        },
-        {
-          "label": "Recovery",
-          "value": "Dual Deploy"
-        }
-      ],
+      "specs": [],
       "leadEngineer": "A. Yeager",
       "completionDate": "Q4 2024",
       "operationalStatus": "On Hold"
