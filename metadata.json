@@ -4,7 +4,7 @@
       "id": "1",
       "title": "L1 Rocketry Certification",
       "description": "Design and construction of a Level 1 certification rocket capable of meeting the basic requirements in order to earn L1 certification.",
-      "status": "In Progress",
+      "status": "Concept",
       "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop",
       "specs": [
         {
@@ -34,7 +34,7 @@
       "id": "1767399579691",
       "title": "American Rocketry Competition",
       "description": "Project description goes here.",
-      "status": "In Progress",
+      "status": "Completed",
       "imageUrl": "https://images.unsplash.com/photo-1517976487492-5750f3195933?q=80&w=2070&auto=format&fit=crop"
     }
   ],
